@@ -86,7 +86,7 @@ Want to channel your inner sloth? Clone the repo and run it in 3 steps:
 
 ```bash
 # 1. Clone & Install
-git clone https://github.com/yourusername/slothsurf.git
+git clone https://github.com/algo-abdullah/slothsurf.git
 cd slothsurf
 pip install -r requirements.txt
 playwright install chromium
